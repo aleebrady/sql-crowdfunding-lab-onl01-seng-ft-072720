@@ -19,4 +19,4 @@ INSERT INTO users Values (18, "Jobo", 48);
 INSERT INTO users Values (19, "Mikey", 49);
 INSERT INTO users Values (20, "Mike", 50);
 
-
+INSERT INTO projects Values (20, "Mike", 50);
