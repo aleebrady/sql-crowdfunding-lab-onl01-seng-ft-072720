@@ -30,3 +30,4 @@ INSERT INTO projects Values (27, "Project", "Work", 100, 01012020, 12312020);
 INSERT INTO projects Values (28, "Project", "Work", 100, 01012020, 12312020);
 INSERT INTO projects Values (29, "Project", "Work", 100, 01012020, 12312020);
 
+INSERT INTO pledges Values (1, 100, 1, 20)
