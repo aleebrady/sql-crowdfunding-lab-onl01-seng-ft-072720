@@ -27,5 +27,5 @@ INSERT INTO projects Values (24, "Project", 50);
 INSERT INTO projects Values (25, "Project", 50);
 INSERT INTO projects Values (26, "Project", 50);
 INSERT INTO projects Values (27, "Project", 50);
-INSERT INTO projects Values (28, "Mike", 50);
-INSERT INTO projects Values (29, "Mike", 50);
+INSERT INTO projects Values (28, "Project", 50);
+INSERT INTO projects Values (29, "Project", 50);
