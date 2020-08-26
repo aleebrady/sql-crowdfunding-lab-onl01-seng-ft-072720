@@ -19,4 +19,13 @@ INSERT INTO users Values (18, "Jobo", 48);
 INSERT INTO users Values (19, "Mikey", 49);
 INSERT INTO users Values (20, "Mike", 50);
 
-INSERT INTO projects Values (20, "Mike", 50);
+INSERT INTO projects Values (20, "Project", 50);
+INSERT INTO projects Values (21, "Mike", 50);
+INSERT INTO projects Values (22, "Mike", 50);
+INSERT INTO projects Values (23, "Mike", 50);
+INSERT INTO projects Values (24, "Mike", 50);
+INSERT INTO projects Values (25, "Mike", 50);
+INSERT INTO projects Values (26, "Mike", 50);
+INSERT INTO projects Values (27, "Mike", 50);
+INSERT INTO projects Values (28, "Mike", 50);
+INSERT INTO projects Values (29, "Mike", 50);
