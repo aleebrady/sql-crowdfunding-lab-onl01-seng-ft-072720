@@ -20,12 +20,13 @@ INSERT INTO users Values (19, "Mikey", 49);
 INSERT INTO users Values (20, "Mike", 50);
 
 INSERT INTO projects Values (20, "Project", "Work", 100, 01012020, 12312020);
-INSERT INTO projects Values (21, "Project", 50);
-INSERT INTO projects Values (22, "Project", 50);
-INSERT INTO projects Values (23, "Project", 50);
-INSERT INTO projects Values (24, "Project", 50);
-INSERT INTO projects Values (25, "Project", 50);
-INSERT INTO projects Values (26, "Project", 50);
-INSERT INTO projects Values (27, "Project", 50);
-INSERT INTO projects Values (28, "Project", 50);
-INSERT INTO projects Values (29, "Project", 50);
+INSERT INTO projects Values (20, "Project", "Work", 100, 01012020, 12312020);
+INSERT INTO projects Values (20, "Project", "Work", 100, 01012020, 12312020);
+INSERT INTO projects Values (20, "Project", "Work", 100, 01012020, 12312020);
+INSERT INTO projects Values (20, "Project", "Work", 100, 01012020, 12312020);
+INSERT INTO projects Values (20, "Project", "Work", 100, 01012020, 12312020);
+INSERT INTO projects Values (20, "Project", "Work", 100, 01012020, 12312020);
+INSERT INTO projects Values (20, "Project", "Work", 100, 01012020, 12312020);
+INSERT INTO projects Values (20, "Project", "Work", 100, 01012020, 12312020);
+INSERT INTO projects Values (20, "Project", "Work", 100, 01012020, 12312020);
+
