@@ -19,7 +19,7 @@ def selects_the_titles_and_amount_over_goal_of_all_projects_that_have_met_their_
 end
 
 def selects_user_names_and_amounts_of_all_pledges_grouped_by_name_then_orders_them_by_the_summed_amount
-  "Select user.name, pledges.amount "
+  "Select user.name, pledges.amount From users Inner Join pledges On pledges.user_id = users.id Group By users.name Order by Sum(pledges.amount);"
 end
 
 def selects_the_category_names_and_pledge_amounts_of_all_pledges_in_the_music_category
